@@ -3,7 +3,7 @@
 # SCRIPT : DOWNLOAD AND INSTALL Channel
 # ###########################################
 #
-# Command: wget https://raw.githubusercontent.com/tarekzoka/tarek/channel/main/installer.sh -qO - | /bin/sh
+# Command: wget https://raw.githubusercontent.com/tarekzoka/channel/main/installer.sh -qO - | /bin/sh
 #
 # ###########################################
 
@@ -14,7 +14,7 @@ TMPDIR='/tmp'
 CHECK='/tmp/check'
 PACKAGE='astra-sm'
 VERSION='2021_09_04'
-MY_URL='https://raw.githubusercontent.com/tarekzoka/tarek/channel/main'
+MY_URL='https://raw.githubusercontent.com/tarekzoka/channel/main'
 
 ####################
 #  Image Checking  #
