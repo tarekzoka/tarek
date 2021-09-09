@@ -14,7 +14,7 @@ TMPDIR='/tmp'
 CHECK='/tmp/check'
 PACKAGE='astra-sm'
 VERSION='2021_09_04'
-MY_URL='https://raw.githubusercontent.com/tarekzoka/channel/main'
+MY_URL='https://raw.githubusercontent.com/tarekzoka/tarek/channel/main'
 
 ####################
 #  Image Checking  #
