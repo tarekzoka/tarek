@@ -4,7 +4,6 @@
 
 # ###########################################
 #  wget https://raw.githubusercontent.com/tarekzoka/tarek/main/installer.sh -qO - | /bin/sh  
-chek=emp
 #!/bin/sh
 #
 
