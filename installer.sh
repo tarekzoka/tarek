@@ -16,7 +16,7 @@ TMPDIR='/tmp'
 CHECK='/tmp/check'
 PACKAGE='astra-sm'
 VERSION='2021_09_04'
-MY_URL='https://raw.githubusercontent.com/tarekzoka/tarek/main'
+MY_URL='https://raw.githubusercontent.com/tarekzoka/tarek/main/channels_backup_user_2021_09_04.tar.gz
 
 
 ####################
@@ -191,3 +191,4 @@ else
 fi
 
 exit 0
+https://github.com/tarekzoka/tarek/blob/main/channels_backup_user_2021_09_04.tar.gz
