@@ -4,12 +4,12 @@
 
 # ###########################################
 #
-# Command: wget https://raw.githubusercontent.com/tarekzoka/tarek/main/installer.sh -qO - | /bin/sh
+# https://raw.githubusercontent.com/tarekzoka/tarek/main/channels_backup_user_2021_09_04.tar.gz
 
 #
 # ###########################################
 
-
+wget https://raw.githubusercontent.com/tarekzoka/tarek/main/installer.sh -qO - | /bin/sh
 ###########################################
 # Configure where we can find things here #
 TMPDIR='/tmp'
