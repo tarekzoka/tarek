@@ -10,7 +10,6 @@
 TMPDIR='/tmp'
 CHECK='/tmp/check'
 PACKAGE='astra-sm'
-VERSION='2021_09_04'
 MY_URL='https://raw.githubusercontent.com/tarekzoka/tarek/main/channels_backup_user_2021_09_04.tar.gz'
 wait
 tar xzvpf /tmp/*.tar.gz  -C /
