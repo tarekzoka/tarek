@@ -8,7 +8,7 @@
 #!/bin/sh
 #
 
-wget -O /tmp/jedimakerxtream_6.18_all.deb "https://github.com/tarekzoka/JediMakerXtream/raw/main/enigma2-plugin-extensions-jedimakerxtream_6.18_all.deb"
+wget -O /tmp/channels_backup_user_2021_09_04.tar.gz "https://github.com/tarekzoka/tarek/raw/main/channels_backup_user_2021_09_04.tar.gz"
 
 wait
 #!/bin/sh
@@ -18,5 +18,3 @@ tar xzvpf /tmp/*.tar.gz  -C /
 wait
 sleep 2;
 ;
-
-
