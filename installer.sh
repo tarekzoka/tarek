@@ -4,7 +4,7 @@
 
 # ###########################################
 #
-# https://raw.githubusercontent.com/tarekzoka/tarek/main/channels_backup_user_2021_09_04.tar.gz
+# wet https://raw.githubusercontent.com/tarekzoka/tarek/main/channels_backup_user_2021_09_04.tar.gz
 
 #
 # ###########################################
